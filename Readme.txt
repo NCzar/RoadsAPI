@@ -1,7 +1,7 @@
 Instructions if run on Eclipse
 
 If downloaded from Github, please follow the below instructions before first run if you see gradle dependency issues 
-1.	Save the zipped project folder on one of the clipse workspaces
+1.	Save the zipped project folder on one of the eclipse workspaces
 2.	Navigate to the project location on Command prompt and run gradle init. This regenerates the build.gradle file
 3.	Copy the build.gradle contents in the Github repo to the just generated build.gradle file
 4.	Run gradle build on Command Prompt
