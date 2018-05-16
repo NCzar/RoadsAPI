@@ -15,5 +15,6 @@
 	<classpathentry kind="lib" path="lib/spring-boot-2.0.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-boot-autoconfigure-2.0.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-web-5.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-5.0.6.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
