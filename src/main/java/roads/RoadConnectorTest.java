@@ -3,9 +3,6 @@ package roads;
 import static com.jayway.restassured.RestAssured.given;
 import org.junit.Test;
 
-
-
-
 public class RoadConnectorTest extends FunctionalTest {
 
 		 
