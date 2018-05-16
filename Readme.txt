@@ -1,9 +1,11 @@
 Instructions if run on Eclipse
 
-If downloaded from Github, the below instructions would help you to run it on eclipse
+If downloaded from Github, please follow the below instructions before first run 
 1.	Save the zipped project folder on one of the eclipse workspaces
-2.	Go to File -> Import -> General -> Projects from Folder or Archive and then select the folder in the Eclispe workspace
-3.  Click Finish and the project would appear on Package Explorer
+2.	Navigate to the project location on Command prompt and run gradle init. This regenerates the build.gradle file
+3.	Copy the build.gradle contents in the Github repo to the just generated build.gradle file
+4.	Run gradle build on Command Prompt
+5.	Now the project should be free of any library import/gradle dependency issues
 
 Title
 	
