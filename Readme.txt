@@ -1,11 +1,14 @@
 Instructions if run on Eclipse
 
-If downloaded from Github, please follow the below instructions before first run 
-1.	Save the zipped project folder on one of the eclipse workspaces
-2.	Navigate to the project location on Command prompt and run gradle init. This regenerates the build.gradle file
-3.	Copy the build.gradle contents in the Github repo to the just generated build.gradle file
-4.	Run gradle build on Command Prompt
-5.	Now the project should be free of any library import/gradle dependency issues
+If downloading from Github, please follow the below instructions 
+
+1.  In Eclipse go to File -> Import -> Git -> Projects from Git 
+2.  Enter the project's URI: https://github.com/NCzar/RoadsAPI
+3.  Select branch master and choose the Directory you want to download it to
+4.  Go to File -> Import -> General -> Existing Projects into workspace
+5.  In the Select root directory browse to the downloaded Git project folder and click Finish
+6.	You should now be able to see the Project RoadConnector in the Eclipse project explorer
+  
 
 Title
 	
